@@ -1,2 +1,2 @@
 # desktop-utilities
-utilities for desektop enhancement
+utilities for desktop enhancement
