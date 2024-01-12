@@ -1,0 +1,4 @@
+# Useful linux commands
+
+# recursivevly remove __pycache__ dirs from current dir structure
+find . -type d -name __pycache__ -exec rm -r {} \;
